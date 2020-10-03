@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ultra Cleaner</string>
+
+    <string name="facebook_app_id">2356838381004380</string>
+
+    <string name="title_notefication">Performnace Issue</string>
+    <string name="detail_notification">Phone is Performing Slow due to Large amount of junk files.</string>
+
+    <string name="app_metrica">941c6ba7-25f4-40f1-98d8-5415dbe9d292</string>
+
+    <!--Rate-->
+    <string name="rate_title">Rate this app</string>
+    <string name="rate_text">If you enjoy playing this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
+    <string name="rate_btn">Rate It Now!</string>
+    <string name="never_btn">No, Thanks</string>
+
+
+</resources>
